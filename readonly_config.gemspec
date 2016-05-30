@@ -6,8 +6,8 @@ require 'readonly_config/version'
 Gem::Specification.new do |spec|
   spec.name          = "readonly_config"
   spec.version       = ReadonlyConfig::VERSION
-  spec.authors       = ["Stewie (Nicholas Stewart)"]
-  spec.email         = ["nstewart@instructure.com"]
+  spec.authors       = ["Nicholas Stewart"]
+  spec.email         = ["nicholas4@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
